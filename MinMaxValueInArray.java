@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/
 public class MinMaxValueInArray {

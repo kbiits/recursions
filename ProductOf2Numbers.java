@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://www.geeksforgeeks.org/product-2-numbers-using-recursion/
 public class ProductOf2Numbers {

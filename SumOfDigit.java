@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://www.geeksforgeeks.org/sum-digit-number-using-recursion/
 public class SumOfDigit {

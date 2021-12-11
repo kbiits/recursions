@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/
 public class LengthOfString {

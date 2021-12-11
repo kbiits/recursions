@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://leetcode.com/problems/fibonacci-number/
 public class Fibonacci {

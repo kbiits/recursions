@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/
 public class NaturalSum {

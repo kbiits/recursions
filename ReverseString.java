@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://leetcode.com/problems/reverse-string/
 public class ReverseString {

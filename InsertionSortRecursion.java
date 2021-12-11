@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 import java.util.Arrays;
 

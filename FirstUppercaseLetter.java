@@ -1,4 +1,4 @@
-package recursions;
+package nabiel.recursions;
 
 // resource : https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/
 public class FirstUppercaseLetter {
